@@ -9,7 +9,7 @@
       </p>
       <p>
         <img src="https://img.shields.io/badge/🇧🇷_Portuguese-Native-2a0000?style=flat"/><br>
-        <img src="https://img.shields.io/badge/🇺🇸_English-Fluent-5a0000?style=flat"/><br>
+        <img src="https://img.shields.io/badge/🇺🇸_English-Learning-5a0000?style=flat"/><br>
         <img src="https://img.shields.io/badge/🇯🇵_Japanese-Learning-3b0000?style=flat"/>
       </p>
     </td>
